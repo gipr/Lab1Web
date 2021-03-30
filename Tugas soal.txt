@@ -1,0 +1,13 @@
+1. tidak akan terjadi error ketika kita salah penulisan tag. kecuali salah dalam penulisan code contoh harusnya </p> menjadi <\p>
+2. tag <p>
+   Tag ini berfungsi untuk memberi perintah paragraf baru pada halaman html, antara baris atau paragraf terbentuk jarak. tag ini berpasangan dimulai dengan <p> dan ditutup dengan </p>
+   tag <br>
+   tag ini dituliskan pada kerangka html untuk memberikan perintah "break line", artinya meng intruksikan baris baru. dan tag ini berdiri sendiri tanpa ada penutup code contoh <br/>
+3. alt tag berfungsi untuk memberi tahu robot mesin pencari tentang keberadaannya. tulisan ini akan muncul ketika web tidak bisa di load
+   tittle tag adalah baloon teks yang muncul saat sebuah gambar disentuh kursor mouse tanpa diklik.
+4. perlu diatur, karena jika yang diatur hanya width / height saja. gambar akan menjadi persegi panjang entah vertikal atau horizontal (tergantung yang diatur heightnya atau widthnya).
+5. _self target ini setelan dasar link jika pada elemen link tidak diberi atribut target.
+   _blank membuka link di tab baru
+   _parent membuka link untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada.
+   _top untuk membuka link di frame paling atas (paling luar).
+   
